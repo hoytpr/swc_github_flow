@@ -7,15 +7,15 @@
 Note: The GitHub webpage interface works well for making relatively small edits, like adding a link, fixing typos, or adding several lines of explanation. For larger edits, the command line interface is recommended.
 
 ### Contents
--   Glossary of terms
--   Making lesson changes with GitHub
--   Option 1- Use a graphical interface (the GitHub webpage)
--   Option 2- Use a command line interface with git
+-   [Glossary of terms](#glossary-of-some-version-control-vocabulary-related-to-git-and-github)
+-   [Making lesson changes with GitHub](#making-lesson-changes-with-github)
+-   [Option 1- Use a graphical interface (the GitHub webpage)](#option-1---use-a-graphical-interface-the-github-webpage)
+-   [Option 2- Use a command line interface with git](#option-2---use-a-command-line-interface-with-git)
 
 
 ### Glossary of some version control vocabulary related to git and GitHub
 
-For more details, see the Carpentry [git lesson reference page](http://swcarpentry.github.io/git-novice/reference/)
+For more details, see the Carpentry [git lesson reference page](http://swcarpentry.github.io/git-novice/reference.html)
 
 -   *repository (short form: repo)*
     -   a storage area for a project containing all the files for the project and the history of all the changes made to those files
@@ -72,7 +72,7 @@ For more details, see the Carpentry [git lesson reference page](http://swcarpent
 
     If **YES** (you have already forked the repository for this lesson):
 
-    a) If you just made the fork, go on to the Making Your Edits section below.
+    a) If you just made the fork, go on to the [Making Your Edits](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md#making-your-edits) section below.
 
     b) If you made the fork a while ago, make sure it is up to date with the latest changes in the Carpentry lesson repository with these instructions before starting to edit:
 
@@ -80,7 +80,7 @@ For more details, see the Carpentry [git lesson reference page](http://swcarpent
 
    ![alt text](images/repo_status.PNG "repo_status.PNG - repo with commits behind message")
 
-  -   If the message says that your branch is **even**, proceed to the Making Your Edits section below.
+  -   If the message says that your branch is **even**, proceed to the [Making Your Edits](https://github.com/dmgt/swc_github_flow/blob/master/for_novice_contributors.md#making-your-edits) section below.
 
   -   If it says that your branch is **behind**,  click the grey *"Compare"* icon (below the green *"Clone or download"* button)  on the right:
 
